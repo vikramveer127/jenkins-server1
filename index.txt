@@ -1,3 +1,6 @@
 "this is first add" 
 "this is my second line " 
 "this is my third line " 
+"this is my forth line " 
+"this is my 5th commit " 
+"this is my forth line " 
